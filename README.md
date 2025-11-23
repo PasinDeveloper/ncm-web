@@ -9,7 +9,7 @@ A modern, offline-capable Next.js app for transforming protected audio packages 
 ## ✨ Features
 
 - **🎵 Drag & Drop Upload**: Effortlessly add files via drag-and-drop or file picker
-- **🌐 WebDAV Imports**: Browse remote WebDAV directories and queue their protected audio without leaving the app
+- **🌐 WebDAV Imports**: Browse remote WebDAV directories and queue their audio without leaving the app
 - **📦 Batch Processing**: Handle multiple files at once with progress tracking
 - **🎧 Audio Preview**: Play tracks in a floating, glassy player with volume control
 - **⬇️ Download**: Save processed MP3/FLAC files with correct metadata
